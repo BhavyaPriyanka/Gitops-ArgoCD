@@ -1,7 +1,7 @@
 deployment:
   replicas: 1
   image: 837206354502.dkr.ecr.us-east-1.amazonaws.com/localhelp-backend
-  imageVersion: sha-68dfb7bc
+  imageVersion: sha-68dfb7bc-16
 
 database:
   host: localhelp-dev.cmfg0eig60hh.us-east-1.rds.amazonaws.com
